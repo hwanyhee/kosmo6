@@ -7,6 +7,6 @@
 <title>index.jsp</title>
 </head>
 <body>
-
+	<h2>GIT 수업</h2>
 </body>
 </html>
